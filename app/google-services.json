@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "404885716258",
+    "firebase_url": "https://majorproject-ebdbd-default-rtdb.firebaseio.com",
+    "project_id": "majorproject-ebdbd",
+    "storage_bucket": "majorproject-ebdbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404885716258:android:afcd078b1bc86d251b797b",
+        "android_client_info": {
+          "package_name": "com.example.fy_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLc7CpOrDFn9ovZPP9bT37pGqKtD1a4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

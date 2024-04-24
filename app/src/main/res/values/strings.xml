@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FY_Project</string>
+
+
+    <string name="quote1">\"In my opinion, our health care system has failed when a doctor fails to treat an illness that is treatable.\"</string>
+    <string name="default_web_client_id" translate="false">404885716258-q7uvhd8fsba8sso9so1jie0qn28mhfd8.apps.googleusercontent.com</string>
+
+
+    <string-array name="types">
+        <item>Psychiatrist</item>
+        <item>Psychologist</item>
+        <item>Psychoanalyst</item>
+    </string-array>
+
+</resources>
